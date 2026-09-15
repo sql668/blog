@@ -11,7 +11,7 @@ paginate = 10
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  author = "史庆亮"
+  author = "繁星"
   description = "AI 工程、Agent 实践与前端的踩坑记录"
   ShowReadingTime = true
   ShowShareButtons = false
