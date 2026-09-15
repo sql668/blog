@@ -22,7 +22,7 @@ paginate = 10
   TocOpen = false
 
   [params.homeInfoParams]
-    Title = "你好，我是史庆亮"
+    Title = "你好,这里是繁星的BLOG"
     Content = "这里记录 AI 工程、Agent 落地与前端的踩坑与思考。"
 
   [[params.socialIcons]]
