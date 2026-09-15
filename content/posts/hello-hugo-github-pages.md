@@ -2,7 +2,7 @@
 title: "这个博客是怎么搭起来的：Hugo + GitHub Pages + PR 流程"
 date: 2026-09-15T14:00:00+08:00
 tags: ["Hugo", "GitHub Pages", "工程实践"]
-author: "史庆亮"
+author: "繁星"
 ---
 
 这是本站的第一篇文章，顺手把它的发布流程记录清楚——因为以后每篇文章都走同一条路。
